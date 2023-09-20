@@ -4,8 +4,11 @@ channels:
   - conda-forge
 
 dependencies:
+  - python=3.9
   - jupyterlab
   - pandas
-  - sklearn
+  - scikit-learn
   - scipy
   - matplotlib
+  - ipywidgets
+  - bokeh=2.4.0
