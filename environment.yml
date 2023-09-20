@@ -1,0 +1,11 @@
+name: slice_finder
+
+channels:
+  - conda-forge
+
+dependencies:
+  - jupyterlab
+  - pandas
+  - sklearn
+  - scipy
+  - matplotlib
