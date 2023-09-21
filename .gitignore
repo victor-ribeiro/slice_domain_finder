@@ -3,6 +3,7 @@ log/*
 figures/*
 .ipynb_checkpoints/*
 
+cluster.txt
 *.xlsx
 *.pdf
 *.png
